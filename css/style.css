@@ -42,7 +42,17 @@ ul{
     margin-top: 10%;
     margin-left: 25%;
 }
-
+.mis-libros{
+    padding-top: 8%;
+    padding-left: 3%;
+}
+.card-book{
+    margin: 5%;
+    background-color: #bbaab8;
+}
+.btn{
+    border-color:#292643;
+}
 
 @media (min-width: 320px) and (max-width: 575px) {
     .name{
@@ -54,11 +64,16 @@ ul{
     .shadow{
         width: 100%;
         height: 70px;}
-   
+    .card-title{
+        font-size: medium;
+    }
+    .card-text{
+        font-size: auto;
+    }
+    
     .buho-lector{
-        width: 50%;
+        width: auto;
         height: 50%;
-        padding-top:20%;
-        margin-left: 50%;}
+        margin-left: 0%;}
     
 }
