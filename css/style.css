@@ -52,6 +52,7 @@ ul{
 }
 .btn{
     border-color:#292643;
+    border-radius: 5%;
 }
 
 @media (min-width: 320px) and (max-width: 575px) {
