@@ -34,6 +34,12 @@ ul{
     margin-top: 5px;
    padding-right: 10px;
 }
+.cart3{
+    width: 35px;
+    height: 32px;
+    font-size: 36px;
+    margin-left: 3%;
+}
 .card-banner{
     padding-top: 40%;
 }
@@ -43,21 +49,75 @@ ul{
     margin-left: 25%;
 }
 
-.mis-libros{
+.tienda{
     padding-top: 8%;
     padding-left: 3%;
 }
-.card-book{
-    margin: 5%;
+#libros{
+    margin-top: 5%;
+    margin-left:5%;
+    text-decoration: underline;
+}
+#merch{
+    margin-top: 5%;
+    margin-left:5%;
+    text-decoration: underline;
+}
+.card-book-one{
+    margin-left: 3%;
+    margin-top: 10%;
+    background-color: #e99e75;
+
+}
+.card-book-two{
+    margin-left: 2%;
+    margin-top: 10%;
     background-color: #bbaab8;
+}
+.card-book-three{
+    margin-left: 2%;
+    margin-top: 10%;
+    background-color: #776483;
+}
+.card-book-four{
+    margin-left: 2%;
+    margin-right: 3%;   
+    margin-top: 10%;
+    background-color: #44426e;
+}
+.card-merch-one{
+    margin-left: 3%;
+    margin-top: 10%;
+    background-color: #e99e75;
+}
+.card-merch-two{
+    margin-left: 2%;
+    margin-top: 10%;
+    background-color: #bbaab8;
+}
+.card-merch-three{
+    margin-left: 2%;
+    margin-top: 10%;
+    background-color: #776483;
+}
+.card-merch-four{
+    margin-left: 2%;
+    margin-right: 3%;   
+    margin-top: 10%;
+    background-color: #44426e;
 }
 .card-group{
     margin-top: 30%;
-    background-color: #bbaab8;
-
+    text-shadow: black;
 }
+.submit-books{
+    text-align: end;
+    margin-top: -40px;}
 #card-crear-categoria{
     padding-top: 10%;
+}
+.submit{
+    justify-content: space-between;
 }
 
 
